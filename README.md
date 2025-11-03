@@ -2,7 +2,6 @@
 
 A Python tool specifically designed for **TMX customers** to bulk upload customer and driver rates to the TMX/PortPro API. This tool processes CSV files containing zipcode and linehaul data, groups them by rate amount, and creates charge templates and rate records via the PortPro API.
 
-> **Note**: This upload tool is specifically used for TMX customers to manage and upload their rate data efficiently.
 
 ## Features
 
