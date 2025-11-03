@@ -24,7 +24,6 @@ A Python tool specifically designed for **TMX customers** to bulk upload custome
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd customer
 ```
 
 2. Install dependencies:
