@@ -104,3 +104,6 @@ The tool automatically groups zipcodes by their linehaul amount:
 - All zipcodes with the same linehaul amount are grouped together
 - Each group creates a single rate record with multiple delivery locations
 - Rate records are uploaded in parallel for faster processing
+
+Sample TMX Data:
+https://docs.google.com/spreadsheets/d/1lnKxG7R_lXJ5fu3cveVmhMBAl6scQ2ZTycinKGUCnYw/edit?gid=0#gid=0
