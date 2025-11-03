@@ -211,7 +211,7 @@ def process_csv_and_create_rates(csv_file_path, terminal_id, terminal_name, num_
 if __name__ == "__main__":
     try:
         # Replace with your actual CSV file path
-        csv_file_path = "inputs/Driver/DRAYOS-25613 - TMX New Rates - Norfolk Driver Rates (2).csv"
+        csv_file_path = "inputs/Driver/"
 
         # Process the CSV and create rates with 10 threads
         results = process_csv_and_create_rates(
